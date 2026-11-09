@@ -50,7 +50,6 @@ yum install -y java-21-amazon-corretto-devel --nogpgcheck
 5. Set Java 21 as Default
 
 alternatives --config java
-
 Select the option for Java 21 (e.g., /usr/lib/jvm/java-21-amazon-corretto/bin/java)
 
 ----------------------------------------------------------------------------------------------------------------------------------
